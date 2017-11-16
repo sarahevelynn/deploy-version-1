@@ -1,0 +1,17 @@
+{
+  "name": "cohort-info",
+  "description": "pushing cohort info",
+  "main": "app.js",
+  "author": "SarahEvelynn",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
