@@ -1,5 +1,8 @@
 ##Deployed Link
-https://secure-plains-18229.herokuapp.com/
+https://quiet-caverns-50656.herokuapp.com/
+
+https://github.com/sarahevelynn/deploy-version-1
+
 
 ## Instructions
 
